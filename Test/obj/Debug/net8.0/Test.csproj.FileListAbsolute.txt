@@ -1,0 +1,14 @@
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\Users\decen\source\repos\Test\Test\bin\Debug\net8.0\Test.exe
+D:\Users\decen\source\repos\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\Users\decen\source\repos\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\Users\decen\source\repos\Test\Test\bin\Debug\net8.0\Test.dll
+D:\Users\decen\source\repos\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.dll
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\Users\decen\source\repos\Test\Test\obj\Debug\net8.0\ref\Test.dll
