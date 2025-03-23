@@ -45,5 +45,5 @@ namespace Test
 
             } while (true);
         }
-    }   
+    }
 }
