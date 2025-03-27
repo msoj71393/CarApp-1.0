@@ -9,6 +9,7 @@ namespace Test
     public class Engine
     {
         public double mileage { get; set; }
+        public double fuelEfficiency { get; set; }
 
         public bool isEngineOn = false;
 

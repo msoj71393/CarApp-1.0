@@ -127,8 +127,9 @@ namespace Test
             }
             int carChoice = int.Parse(Console.ReadLine()) - 1;
             Car selectedCar = cars[carChoice];
-
+            
             trip.trip();
+            trip.PrintTripDetails(12);
             OddItems.isPalindrome();
         }
 
